@@ -1,10 +1,11 @@
 # Day 1 — Points
-
+## 4 million LiDAR points over Estonia ground-classified with a progressive morphological filter (PMF)
 
 ![4 million LiDAR points over Estonia ground-classified with a progressive morphological filter (PMF)](day01_points_horizon.png)
 
 ## Data
 Airborne LiDAR point cloud, Estonia (Estonian Land Board), EPSG:3301
+
 Tile 91550_2024, ~4.05M points after cleaning
 
 ## Method
