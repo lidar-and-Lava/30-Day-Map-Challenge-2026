@@ -1,6 +1,6 @@
 # Day 2 — Lines
 
-!["GLOWING MAP"](![4 million LiDAR points over Estonia ground-classified with a progressive morphological filter (PMF)](day01_points_horizon.png)
+!["GLOWING MAP"](02.Lines_Bucharest_Tram_System.png)
 
 Bucharest's tram network, lit up like a neuron.
 
