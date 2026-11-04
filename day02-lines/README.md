@@ -1,6 +1,6 @@
 # Day 2 — Lines
 
-![Glowing map of Bucharest's tram network](02.Lines_Bucharest_Tram_System.png)
+!["C:\Users\alexa\OneDrive\Documents\Maynooth GIS\30days challenge data\02. Lines, Bucharest, QGIS\02.Lines_Bucharest_Tram_System.png"]
 
 Bucharest's tram network, lit up like a neuron.
 
