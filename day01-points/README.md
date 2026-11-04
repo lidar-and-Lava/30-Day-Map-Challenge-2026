@@ -14,7 +14,7 @@ Analysis in RStudio using R and the lidR package (v3.1.2).
 
 1. Cleaning — removed noise and water returns (classes 7, 9, 18 — water gives low signal return):
 
-r
+'''r
 las <- filter_poi(las, !Classification %in% c(7L, 9L, 18L))
 
 2. Ground classification — two pmf() (progressive morphological filter) configurations were compared against the reference classification:
